@@ -1,8 +1,11 @@
-# Ignorar la carpeta ddev
+# Ignorar la carpeta DDEV
 .ddev/
 
+# Ignorar dependencias de Composer
 vendor/
 
-web/sites/default/files
+# Ignorar archivos subidos
+web/sites/default/files/
 
+# Otros archivos de Composer y configuraciones innecesarias
 composer.lock
