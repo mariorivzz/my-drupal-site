@@ -1,0 +1,8 @@
+# Ignorar la carpeta ddev
+.ddev/
+
+vendor/
+
+web/sites/default/files
+
+composer.lock
