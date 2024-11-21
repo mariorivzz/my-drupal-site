@@ -5,7 +5,6 @@
 vendor/
 
 # Ignorar archivos subidos
-web/sites/default/files/
 
 # Otros archivos de Composer y configuraciones innecesarias
 composer.lock
