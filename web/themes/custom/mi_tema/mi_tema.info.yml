@@ -1,0 +1,7 @@
+name: Mi Tema
+type: theme
+description: 'Un tema personalizado para mi sitio.'
+core_version_requirement: ^10 || ^11
+base theme: stable
+libraries:
+  - mi_tema/global-styling
