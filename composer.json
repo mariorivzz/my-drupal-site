@@ -21,8 +21,10 @@
         "drupal/core-project-message": "^11.0",
         "drupal/core-recommended": "^11.0",
         "drupal/examples": "^4.0",
+        "drupal/metatag": "^2.1",
         "drupal/paragraphs": "^1.18",
         "drupal/pathauto": "^1.13",
+        "drupal/stable": "^2.1",
         "drupal/twig_tweak": "^3.4",
         "drush/drush": "^13.3"
     },
